@@ -38,39 +38,6 @@
 
 <!-- ###### My Github Stats  ##### -->
 
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
-
-<div align="center">
-<a href="http://www.github.com/Hornet-Developer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Hornet-Developer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Hornet-Developer's GitHub stats" /></a>
-<a href="http://www.github.com/Hornet-Developer"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hornet-Developer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
-
-<a href="http://www.github.com/Hornet-Developer"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hornet-Developer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-
-<!-- ###### END OF My Github Stats  ##### -->
-
-<!-- ###### SOCIAL MEDIA LINKS ##### -->
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
-<h4 align="center">
- 
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
-</h4>
-
-<p align="center">
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
-</p>
-
-<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
-
-
-
 
 <!-- ###### FOOTER ##### -->
 
