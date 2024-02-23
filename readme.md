@@ -46,7 +46,7 @@
 </h4>
 
 <p align="center">
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/>defaultcolumn645@gmail.com</a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/>developer.react.front@gmail.com</a>
 </p>
 <!-- ###### FOOTER ##### -->
 
