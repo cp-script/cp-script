@@ -12,7 +12,7 @@
 <br />
 
 <code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/react-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-e-commerce-64.png" width="35"/></code>
@@ -29,7 +29,6 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
 <code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
 
 <!-- ###### My Github Stats  ##### -->
