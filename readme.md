@@ -45,7 +45,7 @@
 </h4>
 
 <p align="center">
- SkypeId: <a href="#" target="_blank" rel="noreferrer">live:.cid.cb139f8ff8cac810</a>
+ SkypeId: live:.cid.cb139f8ff8cac810
 </p>
 <!-- ###### FOOTER ##### -->
 
