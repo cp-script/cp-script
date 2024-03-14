@@ -12,22 +12,18 @@
 <br />
 
 <code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/react-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-e-commerce-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-wordpress-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-shopify-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/icons8-angularjs-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-vue-js-48.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-express-js-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-next-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-html-64.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-css-filetype-64.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/icons8-rest-api-64.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
